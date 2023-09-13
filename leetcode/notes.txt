@@ -1,0 +1,4 @@
+ChatGPT APINotes:
+
+API_KEY: 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
+API_Key_Name: personalAssistantMacbook	
